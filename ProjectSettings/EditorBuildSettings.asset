@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Trampoline/Scenes/Initial.unity
+    guid: 78ebe62bb11614023bcb59fb1009deb7
+  - enabled: 1
+    path: Assets/Trampoline/Scenes/MainMenu.unity
+    guid: 8d8def7efb30949f99521aaf2eda412d
+  - enabled: 1
+    path: Assets/Trampoline/Scenes/Game.unity
+    guid: 1b6b7c9044baf4e72815c686e83500c1
+  m_configObjects: {}
